@@ -1,6 +1,29 @@
-<div class="page-break" style="page-break-after:always;"><span style="display:none;">&nbsp;</span></div>
-<div class="raw-html-embed">salam</div>
-<p>سلام این منم</p>
-<figure class="image" data-ckbox-resource-id="Ktw8ckE11Qn1">
-    <picture>
-        <source srcset="https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/108.webp 108w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/216.webp 216w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/324.webp 324w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/432.webp 432w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/540.webp 540w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/648.webp 648w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/756.webp 756w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/864.webp 864w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/972.webp 972w,https://ckbox.cloud/cb6fe3864b7f64b0af6e/assets/Ktw8ckE11Qn1/images/1080.webp 1080w" type="image/webp" sizes="(max-width
+<!-- #######  THIS IS A COMMENT - Visible only in the source editor #########-->
+<h2>Welcome To The Best Online HTML Web Editor!</h2>
+<p style="font-size: 1.5em;">You can <strong style="background-color: #317399; padding: 0 5px; color: #fff;">type your text</strong> directly in the editor or paste it from a Word Doc, PDF, Excel etc.</p>
+<p style="font-size: 1.5em;">The <strong>visual editor</strong> on the right and the <strong>source editor</strong> on the left are linked together and the changes are reflected in the other one as you type! <img src="https://html5-editor.net/images/smiley.png" alt="smiley" /></p>
+<table class="editorDemoTable">
+<tbody>
+<tr>
+<td><strong>Name</strong></td>
+<td><strong>City</strong></td>
+<td><strong>Age</strong></td>
+</tr>
+<tr>
+<td>John</td>
+<td>Chicago</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Lucy</td>
+<td>Wisconsin</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Amanda</td>
+<td>Madison</td>
+<td>22</td>
+</tr>
+</tbody>
+</table>
+<p>This is a table you can experiment with.</p>
